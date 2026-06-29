@@ -1,0 +1,15 @@
+{
+  "name": "openclaw-ad-creative-agent",
+  "version": "1.0.0",
+  "description": "Autonomous Claude-powered agent that monitors Meta Ads performance and generates ad creatives",
+  "main": "agents/performance-monitor.js",
+  "scripts": {
+    "start": "node agents/performance-monitor.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.30.0",
+    "dotenv": "^16.0.0",
+    "node-fetch": "^3.0.0"
+  }
+}
