@@ -1,0 +1,30 @@
+{
+  "campaigns": [
+    {
+      "id": "23851234567890",
+      "name": "Skincare — Women 28-44 — Prospecting",
+      "status": "ACTIVE",
+      "spend": 1240.50,
+      "impressions": 98420,
+      "clicks": 842,
+      "ctr": 0.0086,
+      "cpa": 62.03,
+      "roas": 1.8,
+      "frequency": 3.2,
+      "audience_segment": "Women 28-44, Skincare Enthusiasts"
+    },
+    {
+      "id": "23851234567891",
+      "name": "Skincare — Men 25-40 — Retargeting",
+      "status": "ACTIVE",
+      "spend": 580.00,
+      "impressions": 34100,
+      "clicks": 612,
+      "ctr": 0.018,
+      "cpa": 28.50,
+      "roas": 4.2,
+      "frequency": 1.8,
+      "audience_segment": "Men 25-40, Website Visitors"
+    }
+  ]
+}
